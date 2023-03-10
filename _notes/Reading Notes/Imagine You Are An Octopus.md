@@ -1,3 +1,6 @@
+---
+---
+
 # Imagine You Are An Octopus
 
 I found [this BBC article](https://www.bbc.com/future/article/20220720-do-octopuses-feel-pain) linked on HackerNews about 2 weeks ago and something about it inspired me.
