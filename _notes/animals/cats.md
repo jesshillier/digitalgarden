@@ -1,21 +1,7 @@
----
-title: A note about cats
----
+# Cats
 
-This is a second note with a poem with cats. 
+I've grown up around cats my whole life. My mom is a huge animal lover and I've definitely inherieted that same love for the creatures we share our planet with.
 
-Here's a link to a note that explains why it's important to [[move your body every day]].
+Cats, despite their popular image are actually very social animals. If you know how to communicate with them, you can build a strong, if maybe needy bond with them. 
 
-> I like my pillow, my fancy bed,
->
-> My cat tree and the bathroom sink.
->
-> Each has its time and fills a need,
->
-> but a box is best when I want to think.
-
-You can create as many notes as you want.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et risus at ipsum pharetra pellentesque vel in massa. Nam ornare, velit sed pulvinar gravida, justo ipsum eleifend augue, id porta velit eros vestibulum odio. Vestibulum dignissim malesuada sapien, eu volutpat lacus pellentesque et. Curabitur dui nisi, sagittis ut tempor ac, scelerisque in diam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum vitae euismod ex. Morbi lacinia iaculis tempor.
-
-Nunc porttitor lacus ullamcorper mauris porttitor feugiat. Vestibulum condimentum lacus vitae orci lobortis pellentesque in ac dolor. Nullam libero justo, suscipit id suscipit vel, tincidunt vitae lectus. Phasellus gravida iaculis ligula, at pharetra urna. Nunc vel tellus eleifend, aliquet magna non, condimentum est. Pellentesque vulputate posuere felis eget sodales. Cras finibus tortor porta libero bibendum, vel bibendum orci luctus. Donec ac eros vitae erat malesuada imperdiet at tempor turpis.
+That being said, I don't recommend speaking back to them when they meow as kittens.. I did it because I thought it was cute to have a "conversation" with them. Now mine are very vocal and while it's entertaining to guests, it's not so entertaining at 2am when they're screaming expecting playtime.
