@@ -8,3 +8,8 @@ While on YouTube shorts, I came across [Gardening Indoors](https://www.youtube.c
 3. Plants can now be placed in it, kept away from curious cats, and well lit for better growth
 
 I think this would work really well for our indoor [[Herb Gardening]] project and wouldn't be as much of an eye-sore as the giant pile of plants we currently have on a table.
+
+Date Planted: 2023-03-10
+Last Tended: 2023-03-10
+
+#Seedlings

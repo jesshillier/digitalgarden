@@ -6,7 +6,13 @@ I find octopods incredibly fascinating. They are incredibly smart and if it were
 Related Notes:
 [[Imagine You Are An Octopus]]
 
-Things I have read/watched involving Octopods
+**Things I have read/watched involving Octopods**
+
 [The Soul of An Octopus](https://www.goodreads.com/book/show/22609485-the-soul-of-an-octopus)
 
 [My Octopus Teacher](https://www.imdb.com/title/tt12888462/)
+
+Date Planted: 2023-03-10
+Last Tended: 2023-03-10
+
+#Seedlings

@@ -43,7 +43,7 @@
 - Use a silk pillowcase or silk bonnet (maybe both?) to prevent frizz from forming while sleeping.
 
 ## Nutrition and Hydration
-* Try to drink at least 2L of water per day, 3L if exercising. Black coffee/tea counts.
+* Try to drink at least 2L of water per day, 3L if exercising. Black tea counts.
 * Am I eating well? Are my meals relatively healthy and well portioned?
 * Am I snacking a lot? Are said snacks sugary? What value do they give me?
 * Aim for 80:20 ratio of valuable foods to treats.
@@ -64,3 +64,8 @@ stretch 30 second each, 3x per week
 King Arthur stretch, each leg
 Frog and butchers block stretch
 One legged fold stretch each leg
+
+Date Planted: 2023-03-10
+Last Tended: 2023-03-10
+
+#Budding

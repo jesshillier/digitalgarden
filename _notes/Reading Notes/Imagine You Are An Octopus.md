@@ -12,3 +12,8 @@ While the article's main points discussed the ethics of octopus farming and the 
 Octopods are just so alient to our own bodies and their existance so different, we can't even begin to really grasp what it might be like to be an octopus.
 
 This thought is what initially got me thinking about a game/experience surrounding animal conciousness. 
+
+Date Planted: 2023-03-10
+Last Tended: 2023-03-10
+
+#Seedlings

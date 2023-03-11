@@ -7,7 +7,9 @@ permalink: /
 
 # Welcome! 🌱
 
-My own little corner of the internet.
+Welcome to my own little digital garden I'm trying out. A lot of my inspiration comes from [Maggie Appleton's garden](https://maggieappleton.com/garden-history). 
+
+I'll be keeping regular notes and ideas here. Check it out occasionally to see what's new in my head.
 
 <strong>Recently updated notes</strong>
 
@@ -19,6 +21,8 @@ My own little corner of the internet.
     </li>
   {% endfor %}
 </ul>
+
+This garden's layout is based off of Maxime Vaillancourt's [Jekyll Digital Garden Template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 
 <style>
   .wrapper {
