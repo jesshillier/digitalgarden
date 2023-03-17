@@ -1,3 +1,6 @@
+---
+---
+
 Growing up in Rural Nova Scotia, I came to have an intense love for the natural world. Since there wasn't much else to do near our home, I would often go out and explore the woods around the property and I'd find my own place to just be.
 
 As was popular with teenage girls around that time, I fell into a bit of a Wicca phase. I grew up fairly non-religious, and I was actually uncomfortable with the idea of God and Christianity as a teen. Wicca spoke to me because much of its core was formed from nature-based pagan traditions of celebrating the changing of the seasons. And of course, as a nerdy girl who read a lot of YA fiction, who wouldn't be drawn in by the magick (with a k, that k was important) and spells?
