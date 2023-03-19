@@ -9,6 +9,8 @@ During my time in university, I started to feel suffocated by the pre-populated 
 
 Sometime during my 3rd year of university, I finally pulled the trigger and bought it. I had a genuine [personal-sized purple Filofax Malden](https://ca.filofax.com/collections/malden/products/malden-personal-organizer-filofax), a common sight in the 90s I'm sure, but this was like 2014. I'm pretty sure I even had some professors comment on it. I loved the thing. I would print and cut personalized pages for it and swap out stickers and sticky notes in the pocket on a weekly basis. 
 
+<img src="../../assets/planner_manifesto_filo.png" width="50%" height="50%">
+
 I'd say I used this system for about a year and a half until I felt it was getting too bulky and heavy for me. Thankfully the planning community was there for me again with the next trend...
 
 ### Bullet Journaling and It's Legacy
@@ -29,6 +31,8 @@ Where did I go wrong here? Well, this was when I started living away from roomma
 
 You cannot assume you are going to stick to a rigid chore schedule. On top of day-to-day tasks, I was so overwhelmed by 8-9 item to-do lists every day. Sometimes they'd snowball because I couldn't get it all done. What was the most frustrating about Todoist in particular was that I couldn't see what I accomplished at the end of the day, only what I didn't. I could have ticked off 10 things that day and all I could see in the app that evening was the 5 things I didn't, or what was next.
 
+<img src="../../assets/planner_manifesto_todo.png" width="30%" height="30%">
+
 Eventually I dropped Todoist for a different tech tool that was starting to gain popularity.
 
 ### Notion
@@ -43,6 +47,6 @@ TBC
 
 Date Planted: 2023-03-16
 
-Last Tended: 2023-03-16
+Last Tended: 2023-03-19
 
 #Budding
